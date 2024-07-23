@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.10.3",
+    "sequelize": "^6.37.3",
+    "sequelize-typescript": "^2.1.6",
+    "sqlite3": "^5.1.7",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "@types/sequelize": "^4.28.20",
+    "ts-node": "^10.9.2"
+  }
+}
