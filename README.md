@@ -1,1 +1,1 @@
-# sequelize-typescript-lear
+# sequelize-typescript-learn
